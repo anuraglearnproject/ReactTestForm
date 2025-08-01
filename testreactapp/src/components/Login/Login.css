@@ -1,0 +1,19 @@
+form{
+    border: 1px solid #eee;
+    padding: 20px 50px;
+    width: 400px;
+    margin-top: 10px;
+}
+
+form input, form button{
+    padding: 10px 8px;
+    margin-bottom: 5px;
+}
+
+form input{
+    width: 80%;
+}
+
+form button{
+    width: 55%;
+}
